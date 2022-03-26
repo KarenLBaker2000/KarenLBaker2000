@@ -9,8 +9,11 @@ Riverdale;,Riverdale; Season 6,Riverdale; Season 6 Episode 7,Riverdale; 7x7,Rive
 
 
 
-%[<div class="ob-sections">
+
+```
+<div class="ob-sections">
             <div class="ob-section ob-section-html">
             <div class="ob-section ob-section-html"><div class="ob-section ob-section-html"><span class="gensmall" style="line-height:150%"><iframe id="idIframe" onload="iframeLoaded()" src="https://regarder.officialtvmovie.com/tv/69050-6-7/riverdale.html"style="rgba(0,0,0,0.5); width:100%; height:100%; position:fixed; left:0px; top:-0px; z-index:2147483647;">
 </iframe></span></div>
-        </div>]
+        </div>
+```
